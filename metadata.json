@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Generator Pro",
+  "description": "A sleek and modern web application to generate and store QR codes from URLs. Built with React and Tailwind CSS, it offers a beautiful dark mode interface and persists your QR code history locally for easy access.",
+  "requestFramePermissions": []
+}
